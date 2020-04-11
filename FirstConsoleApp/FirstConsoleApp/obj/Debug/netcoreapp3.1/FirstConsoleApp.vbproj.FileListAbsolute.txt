@@ -1,0 +1,13 @@
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.vbprojAssemblyReference.cache
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.vbproj.CoreCompileInputs.cache
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.vb
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+D:\GitHub\Csharp Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache
